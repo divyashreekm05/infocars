@@ -87,7 +87,7 @@ We built specific tools to verify the improvements in Milestone 2:
 - [x] Unified API Endpoint (`api.py`)
 - [x] Caching & Performance Optimization
 
-### ✅ Milestone 2: Advanced Processing & Sotrage
+### ✅ Milestone 2: Advanced Processing & Storage
 - [x] OpenCV Preprocessing Module (`preprocessing.py`)
 - [x] SQLite Database Integration (`database.py`)
 - [x] Verification Scripts (`visual_test.py`, `accuracy_test.py`)
